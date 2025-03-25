@@ -1,0 +1,24 @@
+/* resources/scss/app.scss */
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #87ceeb; /* Bleu ciel */
+}
+
+.btn-primary {
+    background-color: #87ceeb; /* Bleu ciel */
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #556b2f; /* Vert olive */
+}
